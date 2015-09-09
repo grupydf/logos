@@ -1,1 +1,3 @@
-# logo do grupy-df
+# Logos do GruPy-DF
+
+Repositório contendo todos os logos desenhados pelo GrupyDF.
